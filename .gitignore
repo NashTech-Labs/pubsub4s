@@ -1,0 +1,7 @@
+/src/main/resources/credentials/
+
+target/
+
+.bsp/
+
+.idea/
